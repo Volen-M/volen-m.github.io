@@ -14,8 +14,8 @@ buttons:
   filter: "all"
 - name: Game Design
   filter: "game"
-- name: Personnal
-  filter: "personnal"
+- name: Personal
+  filter: "personal"
 - name: Programmatic
   filter: "programmatic"
 - name: University/DESS
@@ -34,7 +34,7 @@ projects:
             **Technologies Used:** CSS, HTML, Js, Go, Hugo, VSCode
 
             Implemented a static website using hugo and the theme toha (slightly modifying it as well) to illustrate my portfolio.
-  tags: ["personnal", "programmatic"]
+  tags: ["personal", "programmatic"]
 
 - name: Website Architecture Consulting for CMS
   logo: /images/sections/projects/mbjf.webp
@@ -45,7 +45,7 @@ projects:
             **Technologies Used:** CSS, HTML, Js, Node, Wordpress, Apache, PHP
 
             Helped plan the CMS infrastructure and with the transition from a static website to a CMS driven one by helping rebuild it into a Wordpress theme.
-  tags: ["personnal", "programmatic"]
+  tags: ["personal", "programmatic"]
 
 - name: Time Tracking/Project Planning System
   logo: /images/sections/projects/obsidian.png
@@ -56,7 +56,7 @@ projects:
             **Technologies Used:** CSS, HTML, JavaScript, TypeScript
 
             Created a personal plugin for Obsidian and added an automation system for task planning and documentation with time keeping graphs.
-  tags: ["programmatic","personnal"]
+  tags: ["programmatic","personal"]
 
 - name: Puzzle Game
   logo: /images/sections/projects/Unity.webp
@@ -99,7 +99,7 @@ projects:
             [To be reworked into a complete game]
           
             **Planned Release Q4 2026**
-  tags: ["game design", "university", "volendigital"]
+  tags: ["gamedesign", "university", "volendigital"]
   
 - name: To-Do Manager RestAPI CI/CD with Case Testing
   #logo: /images/sections/projects/Unity.webp
