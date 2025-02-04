@@ -13,7 +13,7 @@ buttons:
 - name: All
   filter: "all"
 - name: Game Design
-  filter: "game"
+  filter: "gamedesign"
 - name: Personal
   filter: "personal"
 - name: Programmatic
