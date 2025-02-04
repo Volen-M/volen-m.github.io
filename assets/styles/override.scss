@@ -1,0 +1,10 @@
+.home{
+  height: 50vh;
+  .background{
+    filter: none;
+  }
+}
+html[data-theme='dark'] .degree-info.card h6 {
+  color: #cbd5e1;
+}
+

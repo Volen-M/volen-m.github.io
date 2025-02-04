@@ -11,63 +11,111 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Volen Digital
+    #url: ""
+    location: Canada
+    #logo: /images/sections/experiences/giro.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Volen Digital vows to create captivating a fun video games and entertainement for all demographics.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Founder, Solo Developer
+    start: September 2024
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Plan and scope a game from start to finish
+    - Complete market research in terms of monitization and standards
+    - Develop games from the ground up
+    - Optimize game systems for smaller and older mobile platforms
+    - Draw and animate 2D Sprites, UIs and shaders
+- company:
+    name: GIRO Inc.
+    url: "https://www.giro.ca/en-ca/"
+    location: Montréal, Québec, Canada And Wiesbaden, Germany
+    logo: /images/sections/experiences/giro.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Giro offers software solutions for planning, scheduling and operational management for public transport services.
+  positions:
+  - designation: Client Solutions Developer (2nd Level) - Wiesbaden, Germany
+    start: June 2023
+    end: September 2024
+    # give some points about what was your responsibilities at the company.
+  - designation: Client Solutions Developer (2nd Level) - Montréal, Canada
+    start: May 2021
+    end: June 2023 
+    responsibilities:
+    - Trained new employees on the code/softwore and on customer versioning to ascertain proper workflow/versioning/support
+    - Analyzed the customer demands of new features/implementations/corrections and budgeted for their implementation
+    - Implemented new functionalities (C#, C++, HTML, CSS, in-house code) and optimized/corrected old ones 
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
+- company:
+    name: Self-Employed
+    #url: "https://www.example.com"
+    location: Montréal, Québec, Canada
+    #logo: /images/sections/experiences/hard-hat.svg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Remote Programming High School Tutor
+    start: Dec 2020
+    end: Sep 2021
+    responsibilities:
+    - Taught remotely programing basic
+    - Planned a course plan
+    - Created course material such as powerpoints and assignments
+
+- company:
+    name: Royal St-Lawrence Yacht Club
+    url: "https://www.rstlyc.qc.ca/index.php/en/"
+    location: Montréal, Québec, Canada
+    logo: /images/sections/experiences/rstlyc.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Junior Sailing Program Manager
+    start: May 2019
+    end: Jun 2020
+    responsibilities:
+    - Managed/planned the timetable of the program and communicated with clients/employees correspondingly
+    - Kept track of client payments and employee workhours
+    - Dealt with inter-employee relations, employee-client relations, and managemental relations
+    - Extrapolated costs and budgeted expenditures
+  - designation: Race Team Sailing Coach
+    start: Sep 2018
+    end: Nov 2019
+    responsibilities:
+    - Coached high level sailing in a professional safe and competitive environment
+  - designation: Executive Race Committee
+    start: May 2015
     end: Oct 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Organized and set up club located regattas for dinghy-class and keel boats
+  - designation: Sailing Instructor
+    start: Jun 2017
+    end: Aug 2018
+    responsibilities:
+    - Coached Young Green Fleet lever sailor aged 10-13 and young CANSail 1, 2, 3, and 4 sailors.
+  - designation: Senior Lifeguard/Cook
+    start: May 2015
+    end: Sep 2015
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: National Bank of Canada
+    url: "https://www.bnc.ca/"
+    location: Montréal, Québec, Canada
+    logo: /images/sections/experiences/bnc.jpg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    # darklogo: /images/sections/experiences/company3.jpg
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Junior Technician (Internship)
+    start: Jun 2016
+    end: Aug 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Contacted clients for system migration
+    - Communicated with team and planned system migration timetable
+    - Contabilized data for successive pre-planned system migration

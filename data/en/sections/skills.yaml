@@ -5,67 +5,56 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
-  filter: true
   # Can optionally hide the title in sections
   # hideTitle: true
-
-# filter buttons
-buttons:
-- name: All
-  filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+  summary: "Experienced with git-based development. Experienced using Git Bash and the Git GUI as well as Git with Azure, Github and BitBucket."
 
-- name: C++
+- name: C/C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  summary: "Know advanced C/C++ programming. Used for thread/kernel level programming, 3D rendering (this includes GLSL) and for game-development such as in Unreal Engine."
+
+- name: C#
+  logo: /images/sections/skills/CSharp.png
+  summary: "Know very profficiently C# for Windows Applications and game making as well as for web-development back-end."
+
+- name: Game Engines
+  logo1: /images/sections/skills/unity-69.svg
+  logo2: /images/sections/skills/unreal-1.svg
+  summary: "Experience in Unity (especially 2D) as well as Unreal Engine. Knowledgeable of ECS in Unity."
+
+- name: IDEs
+  logo1: /images/sections/skills/Visual_Studio.png
+  logo2: /images/sections/skills/Android_Studio.png
+  summary: "Proficient with a multitude of IDEs such as Visual Studio, Collab, Eclipse, IntelliJ, Android Studio and VSCode."
+
+- name: Management and Tools
+  logo1: /images/sections/skills/jira-1.svg
+  logo2: /images/sections/skills/sharepoint.png
+  summary: "Worked with most of the major management and development softwares such as Asana, Jira, Trello, Slack, Teams/Sharepoint, PowerBI and the MS365 Suite"
+
+- name: Web Development
+  logo1: /images/sections/skills/docker.svg
+  logo2: /images/sections/skills/web.png
+  summary: "Proficient with HTML, CSS, JS and TS. Have experience building websites as well as creating personlized Wordpress themes connected to the Wordpress CMS. Have experience doing graph-work as well as front-end professionally with JS/CSS"
+
+- name: Java and JavaScript Technologies
+  logo: /images/sections/skills/Jenkins_logo.png
+  summary: "Capable of setting up proper systems and application using Java and JavaScript along with continuous integration using libraries such as Chai (Js), JUnit."
+
+- name: REST and SOAP
+  logo: /images/sections/skills/cloud.png
+  summary: "Professional experience modifying and interfacing with SOAP and REST APIs."
+
+- name: Machine Learning
+  logo: /images/sections/skills/Python.png
+  summary: "Am profficient with Python (including Pytorch, scikit-learn, matplotlib and Jupyter) to put together a machine learning environment."
+
+- name: Graphics and Creative Tools
+  logo: /images/sections/skills/Adobe_Photoshop.png
+  summary: "Good at 2D design using tools such a Photoshop and Illustrator."

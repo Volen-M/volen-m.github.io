@@ -8,54 +8,53 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Computer Engineer and Game Designer Gradute
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: | 
+          
+          I am a passionate **Software Developer/Analyst** who has been programming since the age of 15 as a hobby - I have since then pursued this passion academically obtaining a **Bachelor\'s in Computer Engineering** and then professionally with 4 years of full time experience.
+
+          I take pride in writing **well-documented**, **readable** and **optimized** code.
+
+          I further my programming and management skills weekly by developing Video Games as a hobby.
+
+
+          **Learn more about my recent Time Management project which allows me to stay on track [here](https://www.example.com).**
+
+          #### GitHub Contributions:
+          {{<img src="http://ghchart.rshah.org/Volen-M" alt="Volen-M's Github chart">}}
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "volen.v.mihaylov@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/Volen-M/"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+  url: "https://www.linkedin.com/in/volen-mihaylov/"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/volen.v.m"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://instagram.com/volen_v_m/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -67,35 +66,41 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: English
+  description: Mother Tongue
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: French
+  description: Mother Tongue
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Bulgarian
+  description: Mother Tongue
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: German
+  description: Level A2
+  percentage: 30
   color: orange
+
+- type: soft-skill-indicator
+  name: Spanish
+  description: Level B1
+  percentage: 40
+  color: purple
+
+- type: soft-skill-indicator
+  name: Macedonian
+  description: Sister Language
+  percentage: 80
+  color: pink
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Volen's Portfolio"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
