@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Volen Digital Projects on Volen's Portfolio</title><link>https://Volen-M.github.io/posts/volendigitalprojects/</link><description>Recent content in Volen Digital Projects on Volen's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Volen-M.github.io/posts/volendigitalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>Endless Puzzle Game</title><link>https://Volen-M.github.io/posts/volendigitalprojects/endless-puzzle-game/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/volendigitalprojects/endless-puzzle-game/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I have previously been creating an endless puzzle game that deals with procedural generation and ramping difficulty.
+It utilizes pooling and origin reseting for optimal flow.&lt;/p>
+&lt;p>It runs on Unity2D 2022.3.24f1.&lt;/p>
+&lt;p>It is left at 90% done (monetization, sound-tracking and some optimization is left).&lt;/p>
+&lt;p>Not much can be said prior to the official annoucement through my personal company &amp;ldquo;Volen Digital&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Technologies Used:&lt;/strong> C#, Unity2D, ECS, Photoshop&lt;/p></description></item><item><title>Puzzle Game</title><link>https://Volen-M.github.io/posts/volendigitalprojects/puzzle-game/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/volendigitalprojects/puzzle-game/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I am currently creating a bejeweled-based puzzle game with character customization.&lt;/p>
+&lt;p>It runs on Unity2D 2021.3.44f1 and uses ECS for optimized entity management.
+Not much can be said prior to the official annoucement through my personal company &amp;ldquo;Volen Digital&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Technologies Used:&lt;/strong> C#, Unity2D, ECS, Photoshop&lt;/p></description></item></channel></rss>

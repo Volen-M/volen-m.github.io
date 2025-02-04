@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Volen's Portfolio</title><link>https://Volen-M.github.io/posts/</link><description>Recent content in Projects on Volen's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Volen-M.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>DESS Final Project</title><link>https://Volen-M.github.io/posts/gdprojects/imaginad/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/gdprojects/imaginad/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This is an arcade style narrative game created for my NAD final project.
+The goal was to create a working demo in the span of 3.5 months, and have it playable as well as produce a &amp;ldquo;One Page Design&amp;rdquo;, a &amp;ldquo;Game Bible&amp;rdquo; and a &amp;ldquo;10s Trailer&amp;rdquo;.&lt;/p>
+&lt;p>Here is the &amp;ldquo;One-Page Design&amp;rdquo;&lt;/p>
+&lt;h3 id="one-page-design">One-Page Design&lt;/h3>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/SlimeAdventures-OPD.png" width="800">
+&lt;/figure>
+&lt;h3 id="10s-ad">10s Ad&lt;/h3>
+&lt;video class="video-player" id="video-183" playsinline controls>
+&lt;source src="https://Volen-M.github.io/images/posts/SlimeAdventures10secAd.mp4" type="video/mp4" />
+&lt;/video>
+&lt;h3 id="evolution-of-work-over-time">Evolution of Work over Time&lt;/h3>
+&lt;p>&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/SlimeAdventures-1.png" width="800">
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/SlimeAdventures-2.png" width="800">
+&lt;/figure>
+&lt;/p></description></item><item><title>Endless Puzzle Game</title><link>https://Volen-M.github.io/posts/volendigitalprojects/endless-puzzle-game/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/volendigitalprojects/endless-puzzle-game/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I have previously been creating an endless puzzle game that deals with procedural generation and ramping difficulty.
+It utilizes pooling and origin reseting for optimal flow.&lt;/p>
+&lt;p>It runs on Unity2D 2022.3.24f1.&lt;/p>
+&lt;p>It is left at 90% done (monetization, sound-tracking and some optimization is left).&lt;/p>
+&lt;p>Not much can be said prior to the official annoucement through my personal company &amp;ldquo;Volen Digital&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Technologies Used:&lt;/strong> C#, Unity2D, ECS, Photoshop&lt;/p></description></item><item><title>Linux Operating System Implementations</title><link>https://Volen-M.github.io/posts/ceprojects/linux-implementations/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/ceprojects/linux-implementations/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I developed separately a Simple Memory Allocator, a Thread Scheduler and a Simple TCP Client/Remote Procedure Call Service in the scope of a class called &amp;ldquo;ECSE 427 - Operating Systems&amp;rdquo;.&lt;/p>
+&lt;p>This was split into three assignments - I have included the assignment demands as well as the code that I provided below:&lt;/p>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>&lt;strong>Repo:&lt;/strong> &lt;a href="https://github.com/Volen-M/ECSE427/tree/master" target="_blank" rel="noopener">Github&lt;/a>&lt;/p>
+&lt;h3 id="assignment-1">Assignment 1&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/Simple-RPC.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="assignment-2">Assignment 2&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/Simple-Thread-Scheduler.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="assignment-3">Assignment 3&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/Memory-Allocator.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div></description></item><item><title>Personal Website</title><link>https://Volen-M.github.io/posts/personalprojects/personal-website/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/personalprojects/personal-website/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>A personal website was created to showcase my skills and my many projects that can often not be shown using the simple CV format.&lt;/p>
+&lt;p>&lt;strong>Link:&lt;/strong> &lt;a href="https://volen-m.github.io/" target="_blank" rel="noopener">Volen-M.github.io&lt;/a>&lt;/p></description></item><item><title>Puzzle Game</title><link>https://Volen-M.github.io/posts/volendigitalprojects/puzzle-game/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/volendigitalprojects/puzzle-game/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I am currently creating a bejeweled-based puzzle game with character customization.&lt;/p>
+&lt;p>It runs on Unity2D 2021.3.44f1 and uses ECS for optimized entity management.
+Not much can be said prior to the official annoucement through my personal company &amp;ldquo;Volen Digital&amp;rdquo;.&lt;/p>
+&lt;p>&lt;strong>Technologies Used:&lt;/strong> C#, Unity2D, ECS, Photoshop&lt;/p></description></item><item><title>Time Tracking/Project Planning System</title><link>https://Volen-M.github.io/posts/personalprojects/time-management/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/personalprojects/time-management/</guid><description>&lt;p>&lt;strong>Technologies Used:&lt;/strong> CSS, HTML, Js, Node, Wordpress, Apache, PHP&lt;/p>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>I created a personal plugin for Obsidian and added an automation system for task planning and documentation with time keeping graphs.&lt;/p>
+&lt;h2 id="page-to-be-finished">PAGE TO BE FINISHED&lt;/h2>
+&lt;h3 id="image-dump">Image Dump&lt;/h3>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-1.png" width="800">&lt;figcaption>
+&lt;h4>Daily Time Keeper with Time Aggregator at Bottom&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-2.png" width="600">&lt;figcaption>
+&lt;h4>Global Parameter with Calculated Time Efficiency Across Projects&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-3.png" width="600">&lt;figcaption>
+&lt;h4>Parameter Setting for Project Time Distribution&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-4.png" width="600">&lt;figcaption>
+&lt;h4>Parameter Setting for Project Time Distribution (Alternate View)&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-5.png" width="800">&lt;figcaption>
+&lt;h4>Project View with Version (Milestone) Distributed Split&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-7.png" width="800">&lt;figcaption>
+&lt;h4>DashboardView With Meaningful Statistics&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-8.png" width="800">&lt;figcaption>
+&lt;h4>Task Level View&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-9.png" width="800">&lt;figcaption>
+&lt;h4>Project Level View&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-10.png" width="800">&lt;figcaption>
+&lt;h4>Version Level View&lt;/h4>
+&lt;/figcaption>
+&lt;/figure></description></item><item><title>To-Do Manager RestAPI CI/CD with Case Testing</title><link>https://Volen-M.github.io/posts/ceprojects/rest-api/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/ceprojects/rest-api/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In a team of 4, we Unit Tested, exploratory tested, story tested and non-functional tested the To-Do Manager RestAPI.
+Implemented as well Continuous Integration testing using GitLab CI&lt;/p>
+&lt;p>The report is embedded right under.&lt;/p>
+&lt;h3 id="report">Report&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/ECSE_429_Project_Report.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div></description></item><item><title>Website Architecture Consulting for CMS</title><link>https://Volen-M.github.io/posts/personalprojects/mbjf-consulting/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/personalprojects/mbjf-consulting/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I helped plan the CMS infrastructure and with the transition from a static website to a CMS driven one by helping rebuild it into a Wordpress theme.&lt;/p>
+&lt;p>&lt;strong>Technologies Used:&lt;/strong> CSS, HTML, Js, Node, Wordpress, Apache, PHP&lt;/p>
+&lt;p>&lt;strong>Link:&lt;/strong> &lt;a href="https://mimibluejamfactory.com/" target="_blank" rel="noopener">mimibluejamfactory.com&lt;/a>&lt;/p></description></item></channel></rss>

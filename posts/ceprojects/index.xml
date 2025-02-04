@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Comp. Eng. Bachelors Projects on Volen's Portfolio</title><link>https://Volen-M.github.io/posts/ceprojects/</link><description>Recent content in Comp. Eng. Bachelors Projects on Volen's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Volen-M.github.io/posts/ceprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux Operating System Implementations</title><link>https://Volen-M.github.io/posts/ceprojects/linux-implementations/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/ceprojects/linux-implementations/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I developed separately a Simple Memory Allocator, a Thread Scheduler and a Simple TCP Client/Remote Procedure Call Service in the scope of a class called &amp;ldquo;ECSE 427 - Operating Systems&amp;rdquo;.&lt;/p>
+&lt;p>This was split into three assignments - I have included the assignment demands as well as the code that I provided below:&lt;/p>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>&lt;strong>Repo:&lt;/strong> &lt;a href="https://github.com/Volen-M/ECSE427/tree/master" target="_blank" rel="noopener">Github&lt;/a>&lt;/p>
+&lt;h3 id="assignment-1">Assignment 1&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/Simple-RPC.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="assignment-2">Assignment 2&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/Simple-Thread-Scheduler.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="assignment-3">Assignment 3&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/Memory-Allocator.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div></description></item><item><title>To-Do Manager RestAPI CI/CD with Case Testing</title><link>https://Volen-M.github.io/posts/ceprojects/rest-api/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/ceprojects/rest-api/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In a team of 4, we Unit Tested, exploratory tested, story tested and non-functional tested the To-Do Manager RestAPI.
+Implemented as well Continuous Integration testing using GitLab CI&lt;/p>
+&lt;p>The report is embedded right under.&lt;/p>
+&lt;h3 id="report">Report&lt;/h3>
+&lt;div
+class="pdf-viewer"
+data-url="https://Volen-M.github.io/files/ECSE_429_Project_Report.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

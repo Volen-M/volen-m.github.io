@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Projects on Volen's Portfolio</title><link>https://Volen-M.github.io/posts/personalprojects/</link><description>Recent content in Personal Projects on Volen's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Volen-M.github.io/posts/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Website</title><link>https://Volen-M.github.io/posts/personalprojects/personal-website/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/personalprojects/personal-website/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>A personal website was created to showcase my skills and my many projects that can often not be shown using the simple CV format.&lt;/p>
+&lt;p>&lt;strong>Link:&lt;/strong> &lt;a href="https://volen-m.github.io/" target="_blank" rel="noopener">Volen-M.github.io&lt;/a>&lt;/p></description></item><item><title>Time Tracking/Project Planning System</title><link>https://Volen-M.github.io/posts/personalprojects/time-management/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/personalprojects/time-management/</guid><description>&lt;p>&lt;strong>Technologies Used:&lt;/strong> CSS, HTML, Js, Node, Wordpress, Apache, PHP&lt;/p>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>I created a personal plugin for Obsidian and added an automation system for task planning and documentation with time keeping graphs.&lt;/p>
+&lt;h2 id="page-to-be-finished">PAGE TO BE FINISHED&lt;/h2>
+&lt;h3 id="image-dump">Image Dump&lt;/h3>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-1.png" width="800">&lt;figcaption>
+&lt;h4>Daily Time Keeper with Time Aggregator at Bottom&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-2.png" width="600">&lt;figcaption>
+&lt;h4>Global Parameter with Calculated Time Efficiency Across Projects&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-3.png" width="600">&lt;figcaption>
+&lt;h4>Parameter Setting for Project Time Distribution&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-4.png" width="600">&lt;figcaption>
+&lt;h4>Parameter Setting for Project Time Distribution (Alternate View)&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-5.png" width="800">&lt;figcaption>
+&lt;h4>Project View with Version (Milestone) Distributed Split&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-7.png" width="800">&lt;figcaption>
+&lt;h4>DashboardView With Meaningful Statistics&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-8.png" width="800">&lt;figcaption>
+&lt;h4>Task Level View&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-9.png" width="800">&lt;figcaption>
+&lt;h4>Project Level View&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;img src="https://Volen-M.github.io/images/posts/time-management-10.png" width="800">&lt;figcaption>
+&lt;h4>Version Level View&lt;/h4>
+&lt;/figcaption>
+&lt;/figure></description></item><item><title>Website Architecture Consulting for CMS</title><link>https://Volen-M.github.io/posts/personalprojects/mbjf-consulting/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://Volen-M.github.io/posts/personalprojects/mbjf-consulting/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>I helped plan the CMS infrastructure and with the transition from a static website to a CMS driven one by helping rebuild it into a Wordpress theme.&lt;/p>
+&lt;p>&lt;strong>Technologies Used:&lt;/strong> CSS, HTML, Js, Node, Wordpress, Apache, PHP&lt;/p>
+&lt;p>&lt;strong>Link:&lt;/strong> &lt;a href="https://mimibluejamfactory.com/" target="_blank" rel="noopener">mimibluejamfactory.com&lt;/a>&lt;/p></description></item></channel></rss>
