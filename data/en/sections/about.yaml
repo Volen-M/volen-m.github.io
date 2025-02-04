@@ -28,7 +28,7 @@ summary: |
           I further my programming and management skills weekly by developing Video Games as a hobby.
 
 
-          **Learn more about my recent Time Management project which allows me to stay on track [here](https://www.example.com).**
+          **Learn more about my recent Time Management project which allows me to stay on track [here](/posts/personalprojects/time-management/).**
 
           #### GitHub Contributions:
           {{<img src="http://ghchart.rshah.org/Volen-M" alt="Volen-M's Github chart">}}
@@ -96,11 +96,11 @@ badges:
   percentage: 40
   color: purple
 
-- type: soft-skill-indicator
-  name: Macedonian
-  description: Sister Language
-  percentage: 80
-  color: pink
+#- type: soft-skill-indicator
+#  name: Macedonian
+#  description: Sister Language
+#  percentage: 80
+#  color: pink
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
